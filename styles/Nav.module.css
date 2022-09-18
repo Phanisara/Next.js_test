@@ -1,0 +1,23 @@
+.nav {
+    padding: 10px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    font-family: Prompt;
+    font-weight: bold;
+}
+
+.nav ul {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.nav ul li a {
+    margin: 5px 20px;
+}
