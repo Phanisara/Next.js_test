@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "next": "12.3.0",
@@ -14,8 +13,5 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.19.1",
-    "eslint": "8.23.1",
-    "eslint-config-next": "12.3.0"
   }
 }

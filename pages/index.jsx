@@ -1,4 +1,3 @@
-import Head from 'next/head'
 import {server} from '../config'
 import ArticleList from '../components/ArticleList'
 

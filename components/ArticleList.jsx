@@ -1,4 +1,4 @@
-import ArticleItem from './ArticleItem'
+import ArticleItem from './ArticleItem.jsx'
 import articleStyle from '../styles/Article.module.css'
 
 const ArticleList = ({ article }) => {
